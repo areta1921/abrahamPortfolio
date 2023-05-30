@@ -1,9 +1,9 @@
 // theme.js
 export const blueTheme = {
-  body: "#EDF9FE",
-  text: "#001C55",
+  body: "#000",
+  text: "#fff",
   expTxtColor: "#000a12",
-  highlight: "#A6E1FA",
+  highlight: "#333",
   dark: "#00072D",
   secondaryText: "#7F8DAA",
   imageHighlight: "#0E6BA8",
