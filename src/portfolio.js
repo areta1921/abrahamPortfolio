@@ -24,7 +24,7 @@ const greeting = {
   subTitle:
     "Hi, I'm a software developer with years of experience working on a variety of projects for companies of all sizes and domains. I have a deep understanding of front-end and back-end development and a proven track record of delivering projects on time and within budget. I'm a team player who enjoys collaborating with others to deliver high-quality work that helps businesses succeed. Let's create something great together!",
   resumeLink:
-    "https://drive.google.com/file/d/1fT-LtHfPT92l6EID-RpdSQEqtsHAuEFT/view",
+    "https://drive.google.com/file/d/1m6zpd7OEeJbmzi8p063RZ4-7gHmT06u_/view?usp=sharing",
   portfolio_repository: "https://github.com/areta1921/",
   githubProfile: "https://github.com/areta1921",
 };
@@ -206,6 +206,15 @@ const degrees = {
 
 const certifications = {
   certifications: [
+    {
+      title: "Per Scholas Java Course, powered by TEKsystems",
+      subtitle: "- Per Scholas",
+      logo_path: "perscholas.png",
+      certificate_link:
+        "https://drive.google.com/file/d/1Mt9BsdIQGvI_UhW2d3ovFBflQ7hgwNXQ/view?usp=sharing",
+      alt_name: "Per Scholas",
+      color_code: "#8C151599",
+    },
     {
       title: "FullStack software developer program",
       subtitle: "- Multiverse",
