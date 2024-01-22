@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/abrahamPortfolio/static/css/main.e714fdaf.css",
-    "main.js": "/abrahamPortfolio/static/js/main.82d57a92.js",
+    "main.css": "/abrahamPortfolio/static/css/main.2a460181.css",
+    "main.js": "/abrahamPortfolio/static/js/main.34e14f28.js",
     "static/media/portfolio.gif": "/abrahamPortfolio/static/media/portfolio.ed6c89f1485f23014ebd.gif",
     "static/media/absho.JPG": "/abrahamPortfolio/static/media/absho.97a1447507d6b80a9c1e.JPG",
     "static/media/fa-solid-900.svg": "/abrahamPortfolio/static/media/fa-solid-900.9fa614346b4e81decc62.svg",
@@ -33,6 +33,7 @@
     "static/media/fa-brands-400.woff": "/abrahamPortfolio/static/media/fa-brands-400.dc957891d535aa198135.woff",
     "static/media/fa-solid-900.woff2": "/abrahamPortfolio/static/media/fa-solid-900.4a83f63fd7dd55c4ca85.woff2",
     "static/media/fa-brands-400.woff2": "/abrahamPortfolio/static/media/fa-brands-400.1c638e5f7632ea819e77.woff2",
+    "static/media/perscholas.png": "/abrahamPortfolio/static/media/perscholas.10ad3def1f7464140ff3.png",
     "static/media/iiitk_logo.png": "/abrahamPortfolio/static/media/iiitk_logo.170d558551a09a7d1620.png",
     "static/media/multiverse.png": "/abrahamPortfolio/static/media/multiverse.15244e9b29b80eabad1c.png",
     "static/media/atlanta.png": "/abrahamPortfolio/static/media/atlanta.16abfd4e6f2cbacac60c.png",
@@ -42,8 +43,8 @@
     "static/media/fa-regular-400.eot": "/abrahamPortfolio/static/media/fa-regular-400.86ce78132c18df414d83.eot",
     "static/media/fa-regular-400.ttf": "/abrahamPortfolio/static/media/fa-regular-400.235a1aa30ba10c7d00d0.ttf",
     "static/media/azure.png": "/abrahamPortfolio/static/media/azure.dd49b3c54249c87368c6.png",
+    "static/media/home.svg": "/abrahamPortfolio/static/media/home.96688d3003bcf5e534ab.svg",
     "static/media/legato_logo.png": "/abrahamPortfolio/static/media/legato_logo.227e72c7979187840ba3.png",
-    "static/media/home.svg": "/abrahamPortfolio/static/media/home.f3816b8d01ef61fdf407.svg",
     "static/media/github_logo.png": "/abrahamPortfolio/static/media/github_logo.15e591a7397b9ef45656.png",
     "static/media/googleAssistant.jpg": "/abrahamPortfolio/static/media/googleAssistant.547075a751cc15673246.jpg",
     "static/media/aims.png": "/abrahamPortfolio/static/media/aims.af1d1d59e5033f2dd1f0.png",
@@ -56,11 +57,11 @@
     "static/media/textile.jpeg": "/abrahamPortfolio/static/media/textile.f5a9b2398f3347b86f69.jpeg",
     "static/media/generation.webp": "/abrahamPortfolio/static/media/generation.d66f5059c659628fcf95.webp",
     "index.html": "/abrahamPortfolio/index.html",
-    "main.e714fdaf.css.map": "/abrahamPortfolio/static/css/main.e714fdaf.css.map",
-    "main.82d57a92.js.map": "/abrahamPortfolio/static/js/main.82d57a92.js.map"
+    "main.2a460181.css.map": "/abrahamPortfolio/static/css/main.2a460181.css.map",
+    "main.34e14f28.js.map": "/abrahamPortfolio/static/js/main.34e14f28.js.map"
   },
   "entrypoints": [
-    "static/css/main.e714fdaf.css",
-    "static/js/main.82d57a92.js"
+    "static/css/main.2a460181.css",
+    "static/js/main.34e14f28.js"
   ]
 }
